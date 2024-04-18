@@ -32,10 +32,11 @@ SOFTWARE.
 #ifndef ORDERING_H
 #define ORDERING_H
 
-#include<algorithm>
-#include<unordered_set>
+#include <algorithm>
+#include <unordered_set>
+#include <cmath>
 //#include<unordered_map>
-#include<time.h>
+#include <time.h>
 #include "graph.h"
 #include "graph_search.h"
 #include "labels.h"
