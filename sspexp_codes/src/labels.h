@@ -38,6 +38,7 @@ SOFTWARE.
 #include <climits>
 #include <stdlib.h>
 #include <iostream>
+#include <cmath>
 #include <sys/time.h>
 #include "graph.h"
 #include "paras.h" 
