@@ -35,6 +35,7 @@ SOFTWARE.
 
 #include <queue>
 #include <set>
+#include <cmath>
 #include "graph.h"
 #include "paras.h"
 #include "labels.h"
