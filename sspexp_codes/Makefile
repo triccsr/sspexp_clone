@@ -1,7 +1,7 @@
-INCLUDE = /home/yzengal/icde20/software/sparsehash/include
-LIB = /home/yzengal/icde20/software/sparsehash/lib
+# INCLUDE = /home/yzengal/icde20/software/sparsehash/include
+# LIB = /home/yzengal/icde20/software/sparsehash/lib
 CXX = g++
-CXXFLAGS = -g -w -Wall -Wextra -O3  -std=c++11 -fopenmp -I $(INCLUDE) -L $(LIB)
+CXXFLAGS = -g -w -Wall -Wextra -O2  -std=c++11 -fopenmp -I $(INCLUDE) -L $(LIB)
 
 all: bin bin/sspexp_run
 
